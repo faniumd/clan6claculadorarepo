@@ -1,4 +1,4 @@
-# main.py - Sprint 1
+# main.py - Sprint 1 calculadora
 def mostrar_menu():
     print("\n=== CALCULADORA ===")
     print("1. Sumar")
